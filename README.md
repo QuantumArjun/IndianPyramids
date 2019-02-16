@@ -1,2 +1,2 @@
-# IndianPyramids
+# Indian Pyramids
 TreeHacks Project
